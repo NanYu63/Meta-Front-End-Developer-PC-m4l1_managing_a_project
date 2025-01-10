@@ -2,6 +2,10 @@ Crimson
 Orange
 Blue
 Cyan
+Crimson
+Orange
+Blue
+Cyan
 Yellow
 Charcoal
 Khaki
@@ -11,4 +15,5 @@ Fuchsia
 Purple
 Brown
 Red
-Yu BCN Git
+ff
+rr
